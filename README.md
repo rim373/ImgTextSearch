@@ -95,10 +95,10 @@ cd ImageText-Search-ElasticVGG
 ```
 
 ### 2. **Run the Frontend and Backend** 
-#### 2.1 Run the Streamlit Frontend
+#### 2.1 Run the Frontend
 ```bash
 cd Frontend
-streamlit run app.py
+Right-click index.html → Open with Live Server.
 ```
 Access the web interface at http://localhost:5000.
 
