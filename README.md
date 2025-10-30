@@ -1,5 +1,5 @@
 
-# 📦 Image and Text Search Engine with VGG16, Elasticsearch, FastAPI, Streamlit, and Logstash
+# 📦 Image and Text Search Engine with VGG16, Elasticsearch, FastAPI, HTML/CSS/JS
 
 This project is a high-performance **image and text search engine** leveraging **deep learning** and modern search technology. It uses the **VGG16** model for feature extraction from images and **Elasticsearch** for fast indexing and retrieval of data. A seamless backend API is provided with **FastAPI**, a user-friendly frontend interface with **Streamlit**, and **Logstash** is used for efficient data ingestion.
 
