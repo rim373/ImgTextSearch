@@ -1,0 +1,16 @@
+python-dotenv
+# Image processing
+torch>=2.0.0
+torchvision>=0.15.0
+tensorflow>=2.13.0
+numpy>=1.23.0
+Pillow>=9.5.0
+tqdm>=4.65.0
+
+# API backend
+fastapi>=0.110.0
+uvicorn>=0.29.0
+python-multipart>=0.0.6
+
+# Search and storage
+elasticsearch>=8.13.0
