@@ -105,7 +105,7 @@ Access the web interface at http://localhost:5000.
 #### 2.2 Run the FastAPI Backend
 ```bash
 cd Backend
-uvicorn route:app --reload
+uvicorn app:app --reload
 ```
 #### 2.3 Run the Elasticsearch
 ```bash
